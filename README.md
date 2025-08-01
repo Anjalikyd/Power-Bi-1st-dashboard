@@ -49,3 +49,5 @@ Identify top customers & profitable product categories
 Track order trends over time
 
 Compare performance across regions & shipping modes
+
+The Screenshot of whole Dashboard: https://github.com/Anjalikyd/Power-Bi-1st-dashboard/blob/main/The%20Power%20Bi%20Dashboard.jpeg
